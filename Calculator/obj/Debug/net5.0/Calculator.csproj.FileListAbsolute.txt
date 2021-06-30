@@ -1,0 +1,12 @@
+D:\DemoMocking\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\DemoMocking\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\DemoMocking\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\DemoMocking\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\DemoMocking\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
